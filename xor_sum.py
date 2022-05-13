@@ -1,4 +1,5 @@
 # py3
+# Write a function that finds the XOR on contiguous subarrays of an array
 
 # XOR has some useful properties that i can exploit to solve ths in O(n) time.
 # 1. Xor is associative and commutative
